@@ -1,1 +1,2 @@
 hi from file1 modified
+from home2 branch conflict 2
