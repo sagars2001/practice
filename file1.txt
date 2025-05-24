@@ -1,2 +1,4 @@
 hi from file1 modified
-conflict 1
+
+from home2 branch conflict 2
+
