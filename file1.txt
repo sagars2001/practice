@@ -1,1 +1,2 @@
 hi from file1 modified
+conflict 1
